@@ -225,7 +225,15 @@ h2 {
   max-width: 700px;
   margin: auto;
 }
+.about {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+}
 
+.about p {
+  line-height: 1.6;
+}
 .skills-container .skill {
   margin-bottom: 1rem;
 }
@@ -326,4 +334,5 @@ footer {
     font-size: 2rem;
   }
 }
+
 
